@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Snehasish-Konger/queue/static/css/main.313f6be1.css",
-    "main.js": "/Snehasish-Konger/queue/static/js/main.10d3e0ca.js",
-    "static/js/787.be1df2c9.chunk.js": "/Snehasish-Konger/queue/static/js/787.be1df2c9.chunk.js",
-    "index.html": "/Snehasish-Konger/queue/index.html",
-    "main.313f6be1.css.map": "/Snehasish-Konger/queue/static/css/main.313f6be1.css.map",
-    "main.10d3e0ca.js.map": "/Snehasish-Konger/queue/static/js/main.10d3e0ca.js.map",
-    "787.be1df2c9.chunk.js.map": "/Snehasish-Konger/queue/static/js/787.be1df2c9.chunk.js.map"
+    "main.css": "/queue/static/css/main.313f6be1.css",
+    "main.js": "/queue/static/js/main.ceae6584.js",
+    "static/js/787.be1df2c9.chunk.js": "/queue/static/js/787.be1df2c9.chunk.js",
+    "index.html": "/queue/index.html",
+    "main.313f6be1.css.map": "/queue/static/css/main.313f6be1.css.map",
+    "main.ceae6584.js.map": "/queue/static/js/main.ceae6584.js.map",
+    "787.be1df2c9.chunk.js.map": "/queue/static/js/787.be1df2c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.313f6be1.css",
-    "static/js/main.10d3e0ca.js"
+    "static/js/main.ceae6584.js"
   ]
 }
